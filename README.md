@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Haizhi Geng, aka JmPotato, JmP0tato, JmPotat0 etc...
 
-:office: Work: I’m currently working on @pingcap with Go & Rust.
+:office: Work: I’m currently working at @pingcap with Go & Rust.
 
 :page_facing_up: Résumé: [English résumé](https://github.com/JmPotato/resume/blob/master/resume.pdf) | [中文简历](https://github.com/JmPotato/resume/blob/master/resume-zh.pdf)
 
