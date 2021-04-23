@@ -4,7 +4,7 @@
 
 :page_facing_up: Résumé: [English résumé](https://github.com/JmPotato/resume/blob/master/resume.pdf) | [中文简历](https://github.com/JmPotato/resume/blob/master/resume-zh.pdf)
 
-:pencil2: Workflow: macOS & zsh & Visual Studio Code.
+:pencil2: Workflow: macOS & fish & Visual Studio Code.
 
 :telephone_receiver: Reach me: [About](https://about.ipotato.me) | [Email](mailto:ghzpotato@gmail.com) | [Twitter](https://twitter.com/JmPotat0)
 
