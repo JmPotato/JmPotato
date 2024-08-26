@@ -6,6 +6,6 @@
 
 :pencil2: Workflow: macOS & fish & Visual Studio Code.
 
-:telephone_receiver: Reach me: [About](https://about.ipotato.me) | [Email](mailto:ghzpotato@gmail.com) | [Twitter](https://twitter.com/JmPotat0)
+:memo: [My blog](https://ipotato.me/about) | [X/Twitter](https://x.com/JmPotat0)
 
-Glad to meet more friends with the same passion on the new things. :sparkles:
+Glad to meet more friends with the same passion for new things. :sparkles:
