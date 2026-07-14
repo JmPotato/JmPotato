@@ -1,8 +1,8 @@
-### Hi there 👋 I'm Haizhi Geng, aka JmPotato, JmP0tato, JmPotat0 etc...
+### Hi there 👋 I'm JmPotato, aka JmP0tato, JmPotat0 etc...
 
 :office: Work: I’m currently working at [@pingcap](https://github.com/pingcap) & [@tikv](https://github.com/tikv) with Go & Rust.
 
-:pencil2: Workflow: macOS & fish & Cursor
+:pencil2: Workflow: ~~macOS & fish & Zed~~ 🤖 AI AGENTS
 
 :memo: [Blog](https://ipotato.me) | [X/Twitter](https://x.com/JmPotat0)
 
